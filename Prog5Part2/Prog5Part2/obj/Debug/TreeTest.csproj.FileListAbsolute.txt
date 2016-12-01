@@ -1,0 +1,14 @@
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_24\TreeTest\TreeTest\obj\Debug\TreeTest.csprojResolveAssemblyReference.cache
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_24\TreeTest\TreeTest\bin\Debug\TreeTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_24\TreeTest\TreeTest\bin\Debug\TreeTest.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_24\TreeTest\TreeTest\bin\Debug\BinaryTreeLibrary2.dll
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_24\TreeTest\TreeTest\bin\Debug\BinaryTreeLibrary2.pdb
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_24\TreeTest\TreeTest\obj\Debug\TreeTest.exe
+C:\books\2012\VCSHARP2012HTP\examples\ch19\Fig19_24\TreeTest\TreeTest\obj\Debug\TreeTest.pdb
+C:\Users\Paige\Documents\Summer 2015\CIS 200\Text Examples\ch19\Fig19_24\TreeTest\TreeTest\obj\Debug\TreeTest.exe
+C:\Users\Paige\Documents\Summer 2015\CIS 200\Text Examples\ch19\Fig19_24\TreeTest\TreeTest\obj\Debug\TreeTest.pdb
+C:\Users\Paige\Documents\Summer 2015\CIS 200\Text Examples\ch19\Fig19_24\TreeTest\TreeTest\bin\Debug\TreeTest.exe
+C:\Users\Paige\Documents\Summer 2015\CIS 200\Text Examples\ch19\Fig19_24\TreeTest\TreeTest\bin\Debug\TreeTest.pdb
+C:\Users\Paige\Documents\Summer 2015\CIS 200\Text Examples\ch19\Fig19_24\TreeTest\TreeTest\obj\Debug\TreeTest.csprojResolveAssemblyReference.cache
+C:\Users\Paige\Documents\Summer 2015\CIS 200\Programs\TreeTest\TreeTest\obj\Debug\TreeTest.exe
+C:\Users\Paige\Documents\Summer 2015\CIS 200\Programs\TreeTest\TreeTest\obj\Debug\TreeTest.pdb
